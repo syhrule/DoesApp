@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "532323554179",
+    "firebase_url": "https://doesapp-a5626.firebaseio.com",
+    "project_id": "doesapp-a5626",
+    "storage_bucket": "doesapp-a5626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532323554179:android:9c85be61dc335087041cb6",
+        "android_client_info": {
+          "package_name": "com.syahrul.doesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532323554179-aem0lq4g44l3g028espa0f961t5facnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syahrul.doesapp",
+            "certificate_hash": "7c634a1d1f0b988125205fccf3b1cc7a89dfede5"
+          }
+        },
+        {
+          "client_id": "532323554179-5kio4c374q723rb78ke5g778ru5830vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPkRXVz6n-CCqXYkYP6EeOIxCrot_vFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532323554179-5kio4c374q723rb78ke5g778ru5830vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
